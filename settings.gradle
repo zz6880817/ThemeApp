@@ -1,1 +1,1 @@
-include ':mapp', ':mvpdemo', ':PhotoPicker', ':photopickerdemo', ':app', ':tapp'
+include ':mapp', ':mvpdemo', ':PhotoPicker', ':photopickerdemo', ':app'

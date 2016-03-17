@@ -9,7 +9,6 @@
       <module fileurl="file://$PROJECT_DIR$/mapp/mapp.iml" filepath="$PROJECT_DIR$/mapp/mapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvpdemo/mvpdemo.iml" filepath="$PROJECT_DIR$/mvpdemo/mvpdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/photopickerdemo/photopickerdemo.iml" filepath="$PROJECT_DIR$/photopickerdemo/photopickerdemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tapp/tapp.iml" filepath="$PROJECT_DIR$/tapp/tapp.iml" />
     </modules>
   </component>
 </project>
