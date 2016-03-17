@@ -1,0 +1,1 @@
+include ':mapp', ':mvpdemo', ':PhotoPicker', ':photopickerdemo', ':app'
