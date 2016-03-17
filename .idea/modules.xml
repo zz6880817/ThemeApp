@@ -7,8 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/ThemeApp.iml" filepath="$PROJECT_DIR$/ThemeApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/mapp/mapp.iml" filepath="$PROJECT_DIR$/mapp/mapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-image-selector/multi-image-selector.iml" filepath="$PROJECT_DIR$/multi-image-selector/multi-image-selector.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvpdemo/mvpdemo.iml" filepath="$PROJECT_DIR$/mvpdemo/mvpdemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/photopickerdemo/photopickerdemo.iml" filepath="$PROJECT_DIR$/photopickerdemo/photopickerdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/papp/papp.iml" filepath="$PROJECT_DIR$/papp/papp.iml" />
     </modules>
   </component>
 </project>

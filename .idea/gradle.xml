@@ -13,8 +13,9 @@
             <option value="$PROJECT_DIR$/PhotoPicker" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/mapp" />
+            <option value="$PROJECT_DIR$/multi-image-selector" />
             <option value="$PROJECT_DIR$/mvpdemo" />
-            <option value="$PROJECT_DIR$/photopickerdemo" />
+            <option value="$PROJECT_DIR$/papp" />
           </set>
         </option>
       </GradleProjectSettings>
